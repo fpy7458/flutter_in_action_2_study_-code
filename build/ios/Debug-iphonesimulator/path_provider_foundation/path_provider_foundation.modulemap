@@ -7,6 +7,6 @@ module path_provider_foundation {
 
 
 module path_provider_foundation.Swift {
-  header "/Users/fengpengyu/Downloads/flutter_in_action_2-main/build/ios/Debug-iphonesimulator/path_provider_foundation/Swift Compatibility Header/path_provider_foundation-Swift.h"
+  header "/Users/fengpengyu/Documents/flutterDemo/flutter_in_action_2_study_code/build/ios/Debug-iphonesimulator/path_provider_foundation/Swift Compatibility Header/path_provider_foundation-Swift.h"
   requires objc
 }
